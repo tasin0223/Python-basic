@@ -1,0 +1,7 @@
+SECURITY AUDIT REPORT: https://youtube.com
+Date: 2026-09-08 03:29:38
+==================================================
+[PRESENT] Content-Security-Policy -> base-uri 'self';object-src 'none';script-src 'nonce-Eq0t9YHaDu54BU5rFjuCQg' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval';report-uri https://csp.withgoogle.com/csp/youtube_main/strict, require-trusted-types-for 'script'
+[PRESENT] Strict-Transport-Security -> max-age=31536000
+[PRESENT] X-Frame-Options -> SAMEORIGIN
+[PRESENT] X-Content-Type-Options -> nosniff
